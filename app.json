@@ -1,4 +1,9 @@
 {
   "name": "RunTrackerApp",
-  "displayName": "RunTrackerApp"
+  "displayName": "RunTrackerApp",
+  "project": {
+    "android": {
+      "packageName": "com.runtrackerapp"
+    }
+  }
 }
